@@ -2,7 +2,7 @@
 
 echo "Loading utility: LazyDev v1.33.7"
 
-source ~/sh/config.sh
+source ./sh-config/config.sh
 
 modules=(LazySSH)
 

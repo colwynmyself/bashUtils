@@ -1,0 +1,3 @@
+[submodule "sh-config"]
+	path = sh-config
+	url = git@bitbucket.org:colwynmyself/sh-config.git
